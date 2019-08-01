@@ -7,4 +7,4 @@ Git is free sofware
 
 
 more lines
-
+GIT tracks modification but not files
